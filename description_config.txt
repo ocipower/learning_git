@@ -1,3 +1,4 @@
 # Contains .descriptor
 ~ Docker.reciever from local main
 #initializer.origin#
+o.status
